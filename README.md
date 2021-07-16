@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a mobile app for calculating ( mostly testing compose and kmm 📱 ) and an arbitrage bot :robot:
 - 🌱 I’m currently learning golang
 
-### Papers 📰:
+### Papers 📰
 - [Bike-Sharing Management System Using IoT](https://www.springerprofessional.de/en/bike-sharing-management-system-using-iot/18685304)
 
 ### Get in touch :octocat:
