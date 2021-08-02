@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 ### Get in touch :octocat:
 - Linkedin: https://www.linkedin.com/in/renato-mercado-luna22
 - Mail: renatomercadoluna@gmail.com
+
+<!-- hype views calculator-->
+![](https://hit.yhype.me/github/profile?user_id=33866489)
