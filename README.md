@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 ![](https://hit.yhype.me/github/profile?user_id=33866489)
 
   
-  [![Renato Mercado
-StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8350462&layout=compact)](https://stackoverflow.com/users/6558042/renato)
+### StackOverflow Stats
+
+[![Renato Mercado StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8350462&layout=compact)](https://stackoverflow.com/users/6558042/renato)
