@@ -29,4 +29,4 @@ Here are some ideas to get you started:
   
 ### StackOverflow Stats
 
-[![Renato Mercado StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8350462&layout=compact)](https://stackoverflow.com/users/6558042/renato)
+[![Renato Mercado StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&layout=compact)](https://stackoverflow.com/users/6558042/renato)
