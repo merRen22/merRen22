@@ -2,7 +2,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=merRen22&label=Profile%20views&color=0e75b6&style=flat alt="merRen22" /></p>
 
-Hi, I'm Renato. I mainly work on Android and Flutter. Also I'm interested in Crypto and Trading.
+Hi, I'm Renato. I mainly work on Android and Flutter. Also I'm interested in Crypto.
 
 <!-- aritcles and preps I should add here as wehere I am the speacker and medium 
 Ex:
