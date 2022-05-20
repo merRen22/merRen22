@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <!-- hype views calculator-->
 ![](https://hit.yhype.me/github/profile?user_id=33866489)
 
+### Libraries 📚
+- [cowboy-bebop-random-message](https://www.npmjs.com/package/cowboy-bebop-random-message) NPM library to get cowboy bebop images
   
 ### StackOverflow Stats
 
