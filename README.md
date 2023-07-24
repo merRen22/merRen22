@@ -13,7 +13,7 @@ Ex:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a mobile app for calculating ( mostly testing compose and kmm 📱 ) and an arbitrage bot :robot:
+- 🔭 I’m currently working on a mobile app for calculating ( mostly testing compose and kmm 📱 ) 
 - 🌱 I’m currently learning golang
 
 ### Papers 📰
