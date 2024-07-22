@@ -13,8 +13,8 @@ Ex:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a mobile app for calculating ( mostly testing compose and kmm 📱 ) 
-- 🌱 I’m currently learning golang
+- 🔭 I’m currently working on building mobile apps and websites (react and astro 🧑‍💻)
+- 🌱 I’m currently learning kmm
 
 ### Papers 📰
 - [Bike-Sharing Management System Using IoT](https://www.springerprofessional.de/en/bike-sharing-management-system-using-iot/18685304)
